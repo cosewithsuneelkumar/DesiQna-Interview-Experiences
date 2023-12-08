@@ -11,4 +11,4 @@ DesiQna Interview Experiences Page This is the Frontend Web page. Its purpose is
     
     JAVASCRIPT
 
-    https://gg.desiqna.in/#
+https://gg.desiqna.in/#
